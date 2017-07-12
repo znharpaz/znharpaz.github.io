@@ -1,0 +1,39 @@
+}
+ul{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	background-color:black;
+	font-family: 'Bitter', serif;
+
+	
+}
+li a{
+	display:block;
+	color:white;
+	padding:14px 117px;
+}
+li{
+	float:left;
+}
+li a:hover{
+	background-color:#6A7395;
+	-webkit-animation: rubberBand 1s;
+	animation:rubberBand 1s;
+
+	
+
+}
+p{
+	font-size:27px;
+	text-indent: 50px;
+
+}
+h1{
+	font-family: 'Oswald', sans-serif;
+}
+br{
+	text-indent: 50px;
+
+}
